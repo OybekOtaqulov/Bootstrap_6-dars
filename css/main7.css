@@ -1,0 +1,30 @@
+.daf1{
+    background: linear-gradient(90deg, plum,purple);
+}
+.gga{
+    background:linear-gradient(90deg, plum,purple);
+}
+.dan{
+    margin-top: -20px;
+    margin-left: -130px;
+    display: block;
+}
+.dan1{
+    margin-top: -20px;
+    margin-left: -220px;
+    display: block;
+}
+.dan2{
+    margin-top: -20px;
+    margin-left: -170px;
+    display: block;
+}
+.daf2{
+    background: linear-gradient(90deg, darkturquoise,blue);
+}
+.daf3{
+    background: linear-gradient(90deg, rgba(255, 69, 0, 0.66), rgba(255, 0, 0, 0.78));
+}
+.daf4{
+    background: linear-gradient(90deg, blueviolet, rgba(138, 43, 226, 0.53));
+}
